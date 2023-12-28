@@ -10,8 +10,8 @@
   
   ##
 <div align = "center">
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=Tomomi37564&show_icons=true&theme=dracula&count_private=true">
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tomomi37564&layout=compact&theme=dracula">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Tomomi37564&show_icons=true&theme=dracula&count_private=true">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tomomi37564&layout=compact&theme=dracula">
 </div>
 <hr>
 
